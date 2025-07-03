@@ -39,6 +39,8 @@ We specialize in building robust, scalable financial technology infrastructure t
 ## 🏗️ Architecture & Infrastructure
 
 ### 🔧 Technology Stack
+- **Mobile**: Flutter
+- **Frontend**: React,Laravel
 - **Backend**: Node.js, Java
 - **Database**: PostgreSQL,Oracle, Redis for caching
 - **Authentication**: JWT, OAuth 2.0, API Key management
